@@ -1,0 +1,5 @@
+{
+  "version": "0.0.1",
+  "apk": "hollow-creek.apk",
+  "notes": "First phone build. Landscape, faster than the browser, and it checks for updates."
+}
