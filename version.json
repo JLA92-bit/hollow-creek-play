@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "apk": "hollow-creek.apk",
-  "notes": "First phone build. Landscape, faster than the browser, and it checks for updates."
+  "notes": "Loading screen with a progress bar when you start a game, plus phone layout fixes."
 }
