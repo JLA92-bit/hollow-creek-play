@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "apk": "hollow-creek.apk",
-  "notes": "Loading screen with a progress bar when you start a game, plus phone layout fixes."
+  "notes": "Clearer first steps (flashing buttons and numbered instructions), a loading bar, and a cleaner phone layout."
 }

@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792401558|5860367';
+const CACHE_VERSION = '1792405023|5730282';
 /** @type {string} */
 const CACHE_PREFIX = 'Hollow Creek-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
